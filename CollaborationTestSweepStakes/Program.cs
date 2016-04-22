@@ -20,6 +20,7 @@ namespace CollaborationTestSweepStakesLee
 			Console.WriteLine(a);
 			Console.WriteLine(b);
 			Console.WriteLine("The BitSlapper was all over this shit!");
+			Console.WriteLine("I will crash the code in a glorious spectacle of smoke and sparks!!!");
 		
 			
 			}
