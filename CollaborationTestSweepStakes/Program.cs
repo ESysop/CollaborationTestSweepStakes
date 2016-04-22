@@ -19,10 +19,8 @@ namespace CollaborationTestSweepStakesLee
 			SystemLinkedListString sytemLinkedListString = new SystemLinkedListString();
 			Console.WriteLine(a);
 			Console.WriteLine(b);
-			Console.WriteLine("The BitSlapper was all over this shit!");
-            Console.WriteLine("OR UP HERE");
+			Console.WriteLine("Fe fi fo fum....,..,.,...,The BitSlapper was all over this shit!");
 			Console.WriteLine("I will crash the code in a glorious fu fu fu fu fu spectacle of smoke and sparks!!!");
-            Console.WriteLine("Do you want these changes HERE??????");
 		
 			
 			}
